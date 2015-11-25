@@ -1,4 +1,4 @@
-# React Isomorphic Demo app
+# Throttle JavaScript Function Demo App
 
 This project serves as source for the blog post described below for throttling/debouncing a function.
 
